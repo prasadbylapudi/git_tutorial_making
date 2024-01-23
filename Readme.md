@@ -1,3 +1,3 @@
-# github tutorial making.
+# GitHub tutorial.
 
-# Practice makes man perfect.
+# Practice makes a man perfect.
